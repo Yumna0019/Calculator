@@ -10,7 +10,7 @@ Welcome to the **Simple Calculator** project! This is a straightforward calculat
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Simple Calculator [here](https://simple-calculator-x-js.netlify.app/).
+Check out the live demo of the Simple Calculator [here](https://calculator-x-js.netlify.app/).
 
 ### 📥 Installation
 
