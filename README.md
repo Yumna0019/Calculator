@@ -16,7 +16,7 @@ Check out the live demo of the Simple Calculator [here](https://calculator-x-js.
 
 Follow these instructions to get the project up and running on your local machine.
 
- 📥 Installation
+# 📥 Installation
 
 1. **Clone the repository:**
    ```bash
