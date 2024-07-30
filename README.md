@@ -12,6 +12,10 @@ Welcome to the **Simple Calculator** project! This is a straightforward calculat
 
 Check out the live demo of the Simple Calculator [here](https://calculator-x-js.netlify.app/).
 
+## 🚀 Getting Started
+
+Follow these instructions to get the project up and running on your local machine.
+
 ### 📥 Installation
 
 1. **Clone the repository:**
